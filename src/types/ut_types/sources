@@ -15,8 +15,10 @@ DLLDEF                  =
 SOURCES = \
     $(SOURCES) \
     CodepointWidthDetectorTests.cpp \
+    SgrStackTests.cpp \
     UuidTests.cpp \
     UtilsTests.cpp \
+    ViewportTests.cpp \
     DefaultResource.rc \
 
 INCLUDES = \

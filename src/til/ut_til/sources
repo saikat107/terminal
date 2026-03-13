@@ -14,7 +14,10 @@ DLLDEF                  =
 
 SOURCES = \
     $(SOURCES) \
+    AtTests.cpp \
     BaseTests.cpp \
+    BitTests.cpp \
+    BytesTests.cpp \
     CoalesceTests.cpp \
     ColorTests.cpp \
     EnumSetTests.cpp \

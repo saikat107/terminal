@@ -15,6 +15,7 @@ DLLDEF                  =
 SOURCES = \
     $(SOURCES) \
     ReflowTests.cpp \
+    TextColorExtendedTests.cpp \
     TextColorTests.cpp \
     TextAttributeTests.cpp \
     UTextAdapterTests.cpp \
